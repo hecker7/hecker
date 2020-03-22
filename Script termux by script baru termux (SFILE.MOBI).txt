@@ -1,0 +1,16 @@
+Script Termux Terbaru Tutorial 
+copy dan paste kata" berikut di termux kalian
+-apt update 
+-apt upgrade
+-pkg install git
+-pkg install lolcat
+-pip2 install lolcat 
+-pkg install sh 
+-git clone https://github.com/TUANB4DUT/TOOLSINSTALLERv4
+-cd
+-ls
+-cd TOOLSINSTALLERv4
+-ls
+-sh TUANB4DUT..sh
+
+trus klian pilih script mana yg ingin kalian install. 
